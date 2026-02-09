@@ -16,3 +16,4 @@ venv/
 .env
 .uv/
 
+my_graph.png
